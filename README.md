@@ -6,5 +6,4 @@ This is a simple readme file
 
 just for the updates
 
-Another one
-hahahaha
+i hope this doesnt cause much trouble
